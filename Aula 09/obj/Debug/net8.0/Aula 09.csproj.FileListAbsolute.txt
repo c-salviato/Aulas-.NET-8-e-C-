@@ -1,0 +1,15 @@
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\bin\Debug\net8.0\Aula 09.exe
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\bin\Debug\net8.0\Aula 09.deps.json
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\bin\Debug\net8.0\Aula 09.runtimeconfig.json
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\bin\Debug\net8.0\Aula 09.dll
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\bin\Debug\net8.0\Aula 09.pdb
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.AssemblyInfoInputs.cache
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.AssemblyInfo.cs
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.csproj.CoreCompileInputs.cache
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.sourcelink.json
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.dll
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\refint\Aula 09.dll
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.pdb
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\Aula 09.genruntimeconfig.cache
+C:\Users\55159\Documents\GitHub\Aulas-.NET-8-e-C-\Aula 09\obj\Debug\net8.0\ref\Aula 09.dll
