@@ -1,0 +1,14 @@
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\bin\Debug\net8.0\Aula02.exe
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\bin\Debug\net8.0\Aula02.deps.json
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\bin\Debug\net8.0\Aula02.dll
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\bin\Debug\net8.0\Aula02.pdb
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.dll
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.pdb
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+C:\Users\55159\Documents\GitHub\Aulas_.NET\Aula02\obj\Debug\net8.0\ref\Aula02.dll
